@@ -11,10 +11,4 @@
 
 
 <style scoped>
-.div-logo-vue{
-    width: 10%;
-    height: 10%;
-    margin: 0 auto;
-    margin-top: 3%;
-}
 </style>
